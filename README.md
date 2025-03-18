@@ -5,21 +5,12 @@
 
 - Clone a repo
 ```bash
-git clone https://github.com/Fsoky/aiogram_simple_bot.git
+git clone https://github.com/Zloy01/aiogram_simple_bot.git
 ```
 - Change dir
 ```bash
 cd aiogram_simple_bot
 ```
-- Install poetry
 ```bash
-pip install poetry
-```
-- Install dependencies
-```bash
-poetry install --no-root
-```
-- Run
-```bash
-poetry run python bot.py
+python main.py
 ```
