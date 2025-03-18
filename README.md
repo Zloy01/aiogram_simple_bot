@@ -11,6 +11,7 @@ git clone https://github.com/Zloy01/aiogram_simple_bot.git
 ```bash
 cd aiogram_simple_bot
 ```
+- Run
 ```bash
 python main.py
 ```
